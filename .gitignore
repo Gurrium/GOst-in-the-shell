@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+GOst-in-the-shell
 
 # Test binary, built with `go test -c`
 *.test
